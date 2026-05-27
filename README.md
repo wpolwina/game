@@ -18,11 +18,14 @@ M — звук
 Начальное изображение игры
 <img width="624" height="350" alt="image" src="https://github.com/user-attachments/assets/a7f0442f-dc3d-4fb8-a978-908711440cca" />
 Появление подсказки над персонажем
-<img width="393" height="192" alt="image" src="https://github.com/user-attachments/assets/a88a8d79-d4e9-4a17-b815-8830374972c9" />
+<img width="624" height="311" alt="image" src="https://github.com/user-attachments/assets/2bf320ed-1038-4342-94fa-98c632e3de77" />
+
 Окно с алиби су-шефа
 <img width="653" height="365" alt="image" src="https://github.com/user-attachments/assets/70d30f53-a967-46d8-a86e-9aa557707092" />
+
 Доска расследования
 <img width="738" height="421" alt="image" src="https://github.com/user-attachments/assets/d4f3fd20-0357-4fa1-b3cc-76c78cddca52" />
+
 Концовка игры
 <img width="628" height="349" alt="image" src="https://github.com/user-attachments/assets/046da84c-4880-45da-9b4e-9c7aa653cec2" />
 
