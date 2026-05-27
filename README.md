@@ -15,6 +15,8 @@ Q — доска расследования
 M — звук
 
 # Скриншоты
+Начальное изображение игры
 <img width="624" height="350" alt="image" src="https://github.com/user-attachments/assets/a7f0442f-dc3d-4fb8-a978-908711440cca" />
+
 ![Uploading image.png…]()
 
