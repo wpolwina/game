@@ -26,6 +26,7 @@ M — звук
 <img width="653" height="365" alt="image" src="https://github.com/user-attachments/assets/70d30f53-a967-46d8-a86e-9aa557707092" />
 
 Доска расследования
+
 <img width="738" height="421" alt="image" src="https://github.com/user-attachments/assets/d4f3fd20-0357-4fa1-b3cc-76c78cddca52" />
 
 Концовка игры
